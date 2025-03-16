@@ -7,7 +7,8 @@ author:     "Xhr"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - Meta
+    - Web
+    - JavaScript
 ---
 # 致我最爱的人
 ![alt text](../img/zyf.jpg)
