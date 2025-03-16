@@ -74,8 +74,8 @@ ga_domain: xhrzyf.top
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "情深缱绻似流水 爱意绵绵映月明 <br> React Team @ Meta"
-sidebar-avatar: img/头像.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "最可爱的猪宝猪宝 <br> React Team @ Meta"
+sidebar-avatar: img/zyf1.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
